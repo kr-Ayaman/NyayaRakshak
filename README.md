@@ -34,7 +34,7 @@ NyayaRakshak is an intelligent legal assistant that provides instant, accurate a
 
 ## 🎮 Demo Steps
 
-1. **Launch the UI**: Click on the public browser UR e.g.L[[https://fe8d493ed9476034fa.gradio.live/]([https://963b6c74a0d02a1439.gradio.live](https://963b6c74a0d02a1439.gradio.live))](https://fe8d493ed9476034fa.gradio.live/) printed at the very bottom of the notebook output.
+1. **Launch the UI**: Click on the public browser UR e.g. [https://963b6c74a0d02a1439.gradio.live](https://963b6c74a0d02a1439.gradio.live) printed at the very bottom of the notebook output.
 2. **Select Language**: Click the language dropdown and select your preferred Indian language or English.
 3. **Choose Persona**: 
    - Click **Citizen Mode** for plain-language legal explanations.
