@@ -1,0 +1,21 @@
+# Core Dependencies
+cerebras-cloud-sdk>=1.0.0
+sentence-transformers>=2.2.0
+databricks-vectorsearch>=0.22
+gradio>=4.0.0
+transformers>=4.33.0
+sentencepiece>=0.1.99
+torch>=2.0.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# NLP & Translation
+sacremoses>=0.0.53
+indic-nlp-library>=0.91
+
+# Utilities
+tokenizers>=0.22.0
+huggingface-hub>=1.5.0
+protobuf>=3.20.0
